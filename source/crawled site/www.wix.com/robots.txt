@@ -1,0 +1,37 @@
+
+User-agent: Googlebot
+Disallow: /api/
+Disallow: /bo/
+Disallow: /editor.jsp
+Disallow: /noflashhtml
+Disallow: /siteBackHtml
+Disallow: /wix/
+Disallow: /wixpress/
+Disallow: /wixdemo/
+Disallow: /wix-editor/
+Disallow: /editor2.jsp
+Noindex: /wix-editor/
+Noindex: /editor2.jsp
+Noindex: /api/
+Noindex: /bo/
+Noindex: /editor.jsp
+Noindex: /noflashhtml
+Noindex: /siteBackHtml
+Noindex: /wix/
+Noindex: /wixpress/
+
+User-agent: *
+Disallow: /api/
+Disallow: /bo/
+Disallow: /editor.jsp
+Disallow: /noflashhtml
+Disallow: /siteBackHtml
+Disallow: /wix/
+Disallow: /wixpress/
+Disallow: /wixdemo/
+Disallow: /wix-editor/
+Disallow: /editor2.jsp
+
+
+
+sitemap: http://www.wix.com/sitemapindex.xml

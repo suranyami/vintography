@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /index.html
+Disallow: /client/
+Disallow: /doc/
+Disallow: /fonts/
+Disallow: /skinz/
+Disallow: /comp/
+Disallow: /services/
+Disallow: /server/
+Disallow: /connect/
+
+
