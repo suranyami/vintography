@@ -40,10 +40,32 @@ h1 {
 }
 
 h2, h3, h4, h5, h6 {
+  color: #0b6a9a;
   font-family: 'Enriqueta', serif;
   font-weight: normal;
-  text-transform: uppercase;
+  text-transform: normal;
   letter-spacing: 0.2em;
+}
+
+.row {
+  margin-top: 40px;
+}
+
+h2 {
+  margin-top: 40px;
+}
+
+.highlight {
+  color: #fe7223;
+}
+
+blockquote {
+  
+}
+
+.series-image {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .contacts ul.nav {
