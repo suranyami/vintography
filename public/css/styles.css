@@ -22,8 +22,8 @@ footer p {
 
 .nav {
   font-family: 'Enriqueta', serif;
-  text-transform: uppercase;
-  letter-spacing: 0.2em;
+  text-transform: capitalize;
+  letter-spacing: 0.1em;
 }
 
 .details {
@@ -61,6 +61,12 @@ h2 {
 
 blockquote {
   
+}
+
+.caption {
+  font-size: 80%;
+  font-style: italic;
+  line-height: 16px;
 }
 
 .series-image {
