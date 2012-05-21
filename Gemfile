@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.3'
 gem 'pg'
+gem 'thin'
+gem 'quiet_assets'
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
