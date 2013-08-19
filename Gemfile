@@ -4,6 +4,7 @@ ruby '1.9.3'
 gem 'rails', '3.2.13'
 gem 'pg'
 gem 'thin'
+gem 'spring'
 gem 'quiet_assets'
 gem 'jquery-rails'
 
